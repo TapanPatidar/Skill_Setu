@@ -1,12 +1,12 @@
-# SkillSetu (कौशल सेतु)
+# SkillSetu
 
 **Academia–Industry Collaboration Portal for Skill Mapping, Internships and Placement**  
-*Problem Statement 26044 • Ministry of Ayush • All India Institute of Ayurveda (Smart Automation Theme)*
+
 
 ---
 
 ## 🏛️ Project Overview
-SkillSetu is a unified institutional platform connecting **Students/Scholars**, **Academicians (Faculty)**, **Industry Recruiters**, and **Institutions (Placement Cells & Deans)**. It bridges classical Ayurvedic pharmacology, clinical therapies (Panchakarma), and modern healthcare domains (GCP clinical trials, health informatics, pharmaceutical standardization) with accredited industrial career pathways.
+SkillSetu is a unified national academia–industry collaboration platform connecting **Students & Scholars**, **Academicians (Faculty)**, **Industry Recruiters**, and **Institutions (Placement Cells & Deans)**. It bridges higher education curricula across 11 major disciplines—including Computer Science, Engineering, Healthcare & Pharmacy, Business Administration, Design, and Sciences—with accredited corporate internships, verified skill mapping, faculty industry sabbaticals, and streamlined campus recruitment pathways.
 
 ---
 
