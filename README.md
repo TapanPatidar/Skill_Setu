@@ -97,28 +97,27 @@ CLIENT_URL=http://localhost:3000
 
 ---
 
-## 👥 Four Supported Roles in Phase 1
+## 👥 Four Supported Roles in SkillSetu
 
-1. **Student / Ayush Scholar**:
-   - Diagnostic skill tests across Dravyaguna, Panchakarma, GCP, and Informatics.
-   - Matched corporate internships and clinical residencies.
-   - Verifiable digital portfolio with AIIA endorsements.
+1. **Student / Candidate**:
+   - Diagnostic skill gap benchmarking across 11 disciplines (AI & Computer Science, Robotics, Clinical Research, Management, Design, etc.).
+   - AI-matched verified corporate internships, summer training, and campus placement drives.
+   - Verifiable digital competency portfolio with automated digital NOCs and institutional endorsements.
 
 2. **Academician / Faculty**:
-   - Mentee tracking and clinical supervision logs.
-   - Sponsored industrial sabbaticals and high-throughput lab fellowships.
-   - Skill endorsement issuance and co-mentored R&D.
+   - Mentee tracking, internship progress monitoring, and academic credit transfer supervision.
+   - Sponsored industry sabbaticals, corporate consulting engagements, and applied R&D fellowships.
+   - Peer skill endorsements, curriculum gap diagnostics, and joint industry publication tracking.
 
-3. **Industry Partner / Recruiter**:
-   - Direct talent search filtered by accredited laboratory competencies.
-   - Job/internship postings with automatic candidate pipeline (Applied → Shortlisted → Interview).
-   - Joint research labs with AIIA faculty.
+3. **Industry Partner / Corporate Recruiter**:
+   - Direct candidate discovery filtered by verified technical competencies and practical project scores.
+   - Full hiring pipeline management (Applied → Evaluated → Shortlisted → Interviewed → Hired).
+   - University-industry MoUs, sponsored capstone challenges, and faculty R&D collaborations.
 
-4. **Institution / Placement Cell & Admin**:
-   - Placement & internship percentages, median stipends, and sector distribution.
-   - Corporate MoU tracking and renewal audits.
-   - Automated exports for NAAC Criterion V and NCISM compliance.
-
+4. **Institution / Placement Cell & Deans**:
+   - Comprehensive placement and internship analytics: offer conversion rates, median stipends, and discipline distribution.
+   - Corporate MoU lifecycle tracking, partner engagement audits, and compliance milestones.
+   - Automated analytics exports for NIRF, NAAC (Criterion V), NBA, and AICTE accreditation audits.
 ---
 
 ## 🎨 Design System: "Minimalist Modern"
