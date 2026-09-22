@@ -1,0 +1,6 @@
+{
+  "name": "SkillSetu",
+  "description": "Academia-Industry Collaboration Portal for Skill Mapping, Internships and Placement across Engineering, Management, Healthcare, Sciences & Design",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
